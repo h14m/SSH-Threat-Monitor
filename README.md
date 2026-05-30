@@ -1,4 +1,4 @@
-# SSH Threat Monitoring & Security Analytics System
+# SOC Monitoring & SIEM Threat Detection Platform
 
 ## Overview
 
@@ -12,15 +12,13 @@ This project simulates real-world SOC monitoring and incident detection workflow
 
 ## Features
 
-- Real-time SSH log monitoring
-- SSH brute-force attack detection
-- Linux auth.log analysis
-- GeoIP attacker location tracking
-- SOC-style terminal alerts
-- CSV incident reporting
-- Attack statistics and analytics
-- Streamlit security dashboard
-- Ubuntu EC2 deployment
+- AWS EC2 Ubuntu Monitoring
+- Splunk SIEM Integration
+- SSH Threat Detection
+- Top Attacker IP Analysis
+- Threat Hunting using SPL
+- Detection Engineering
+- SOC Dashboard Monitoring
 
 ---
 
