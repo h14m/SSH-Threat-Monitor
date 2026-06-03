@@ -10,7 +10,7 @@ def main():
 
         failed_attempts = parse_auth_log()
 
-        print(failed_attempts)
+        #print(failed_attempts)
 
         generate_alerts(failed_attempts)
 
